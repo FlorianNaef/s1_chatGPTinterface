@@ -1,6 +1,7 @@
 import openai
+import keys
 
-openai.api_key = ""
+openai.api_key = keys.api_key
 
 def chatbot_response(message):
   model_engine = "text-davinci-002"
