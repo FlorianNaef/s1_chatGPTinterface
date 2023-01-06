@@ -1,2 +1,2 @@
 # s1_chatGPTinterface
-Trying to create a terminal-based chatGPT interface.
+Terminal-based GPT-3 and chatGPT interface.
