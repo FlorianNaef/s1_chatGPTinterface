@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def chatbot_response(message):
   model_engine = "text-davinci-002"
